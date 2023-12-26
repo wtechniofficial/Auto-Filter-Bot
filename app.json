@@ -9,7 +9,7 @@
         "TroJanzHEX"
     ],
     "website": "https://TroJanzHEX.me",
-    "repository": "https://github.com/TroJanzHEX/Auto-Filter-Bot",
+    "repository": "https://github.com/wtechniofficial/Auto-Filter-Bot/",
     "success_url": "https://telegram.dog/TroJanzHEX",
     "env": {
         "TG_BOT_TOKEN": {
